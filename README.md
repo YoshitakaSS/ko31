@@ -7,5 +7,9 @@ Hey there! I'm Ko Takagi, a freelance web developer from Japan.
 - ⚡️ &nbsp; Fun fact: baseball⚾, rugby🏉, shogi☖, cat🐈, sweets🍰
 - 📫 &nbsp; How to reach me: [@ko31](https://twitter.com/ko31)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ko31&show_icons=true" alt="ko31" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko31" alt="ko31" /> 
+<a href="https://github.com/ko31">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ko31&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/ko31">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko31" />
+</a>
